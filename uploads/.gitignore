@@ -1,0 +1,1 @@
+#This is the folder where the uploaded files will be saved temporarily. You can change this temporary location by editing upload_folder variable in compare.py file to point any other location you desire.
